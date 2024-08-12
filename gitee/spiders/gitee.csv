@@ -1,0 +1,56 @@
+Lucene.Jin/Lucene Server
+Lucene Server 是一款简单、灵活、性能强劲的Lucene全文检索服务。Lucene Server是基于 Spring Boot 和 Lucene 核心库构建，Lucene Server旨在为企业级应用提供强大且灵活的全文检索功能，零代码实现对海量数据的高效搜索。Spring Boot 的集成确保了服务的快速部署与易于管理，而 Lucene 则提供了业界领先的文本搜索能力和性能。
+6
+https://gitee.com//jinjiG/lucene-server
+devlive-community/InfoSphere
+InfoSphere 是一款面向企业和个人的开源知识管理系统，旨在提供简单而强大的知识管理解决方案。
+24
+https://gitee.com//devlive-community/infosphere
+dotNET China/MiniAuth
+MiniAuth 轻量 ASP.NET Core Identity Web 后台管理插件
+29
+https://gitee.com//dotnetchina/MiniAuth
+三鲤/金鱼Scheme
+金鱼Scheme：让Scheme和Python一样易用且实用
+2
+https://gitee.com//LiiiLabs/goldfish
+广联达科技股份有限公司/GDMPLab
+GDMPLab是一个基于GDMP SDK的C++示例程序，是一个完整的、开箱即用的CAD/BIM应用程序，包括了应用程序的初始化，UI框架的搭建，各种事务和机制的处理，插件系统的加载，三维模型的创建、交互和显示等等。
+16
+https://gitee.com//glodon/gdmplab
+Dream Num/univer
+Univer 是一套开源的企业文档和数据协作解决方案，包括电子表格、文档和幻灯片。 Univer 高度可扩展的设计允许开发人员轻松地定制个性化功能。
+51
+https://gitee.com//dream-num/univer
+广州中科云飞科技创新有限公司/InnoFlight-MSDK
+MSDK能帮助开发者以最简单、最直观的方式获取和控制无人机的特性，可以大幅减少开发者的开发负担，让使用方能更专注于创新性的应用开发。
+11
+https://gitee.com//qw1357802/innoflight-msdk
+沉默王二/paicoding
+⭐️一款好用又强大的开源社区，基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等主流技术栈，全新的UI设计、支持一键源码部署，拥有完整的文章&教程发布/搜索/评论/统计流程等，代码完全开源，没有任何二次封装，是一个非常适合二次开发/实战的现代化社区项目👍 。
+800
+https://gitee.com//itwanger/paicoding
+深圳高通半导体有限公司/GT-HMI Builder
+GT-HMI Builder项目是基于GT-HMI的开源硬件系列，涵盖了GT HMI模块（中大尺寸屏）、GUI-LCD开发板（小尺寸屏）、串口屏硬件开源
+12
+https://gitee.com//genitop/GT-HMI-Builder
+舒登登/PclCSharp
+对pcl点云库的.NET包装，可在C#、VB.net语言中使用pcl
+131
+https://gitee.com//shudengdeng/pcl-csharp
+Ascend/cann-hccl
+cann-hccl，是基于昇腾硬件的高性能集合通信库（Huawei Collective Communication Library，简称HCCL）。
+24
+https://gitee.com//ascend/cann-hccl
+Cambricon/mlu-ops
+Efficient operation implementation based on the Cambricon Machine Learning Unit (MLU) .
+4
+https://gitee.com//cambricon/mlu-ops
+Cambricon/cnindex
+寒武纪CNIndex（Cambricon Index Library，寒武纪索引库）是一个基于寒武纪机器学习单元（MLU）以及寒武纪CNNL_EXTRA（寒武纪人工智能计算扩展库）对各类向量相似度搜索应用场景提供向量搜索的计算库。
+0
+https://gitee.com//cambricon/cnindex
+godo/godoos
+一款高效的内网办公操作系统，内含word/excel/ppt/pdf/内网聊天/白板/思维导图等多个办公系统工具，支持原生文件存储。平台界面精仿windows风格，操作简便，同时保持低资源消耗和高性能运行。无需注册即可自动连接内网用户，实现即时通讯和文件共享。灵活高配置的应用商店，可无限扩展。
+140
+https://gitee.com//ruitao_admin/godoos

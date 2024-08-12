@@ -1,0 +1,1 @@
+广州中科云飞科技创新有限公司/InnoFlight-MSDK	MSDK能帮助开发者以最简单、最直观的方式获取和控制无人机的特性，可以大幅减少开发者的开发负担，让使用方能更专注于创新性的应用开发。	10	https://gitee.com//qw1357802/innoflight-msdk	
